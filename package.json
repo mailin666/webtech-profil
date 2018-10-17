@@ -1,0 +1,22 @@
+{
+  "name": "profile-page",
+  "version": "1.0.0",
+  "description": "my profile page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailin666/webtech-profil.git"
+  },
+  "author": "Pitis Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailin666/webtech-profil/issues"
+  },
+  "homepage": "https://github.com/mailin666/webtech-profil#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
